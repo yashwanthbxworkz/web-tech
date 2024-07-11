@@ -1,1 +1,1 @@
-# wed-tech
+# web-tech
